@@ -1,0 +1,8 @@
+#hero .btn-get-started {
+    background: #c9352b !important;
+    color: #29b7ff !important;
+}
+
+#hero .btn-get-started:hover {
+    color: #fff !important;
+}
